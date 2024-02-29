@@ -1,0 +1,5 @@
+SELECT TOP (1000) [roomNo]
+      ,[hotelNo]
+      ,[type]
+      ,[price]
+  FROM [hotelDB].[dbo].[Room]
