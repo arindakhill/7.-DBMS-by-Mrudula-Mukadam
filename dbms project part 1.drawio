@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-21T17:38:06.011Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="HVb6FXBmhEZomNUN8-he" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-21T17:38:47.370Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="L28niE5pTrie6ponG1o_" version="24.0.7" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1434" dy="786" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -441,8 +441,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NRWMTkdjOO6M37qrP40V-93" value="Manages&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="314" y="346" width="71" height="26" as="geometry" />
+        <mxCell id="NRWMTkdjOO6M37qrP40V-93" value="Registers" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="315" y="346" width="69" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NRWMTkdjOO6M37qrP40V-94" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
